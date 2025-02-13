@@ -16,6 +16,18 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 * Thorough Interview Preparation with Expert Guidance
 * Detailed Analysis of Industry-Specific Use Cases
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+## Installation
+
+[AWS CONSIOLE ](https://pip.pypa.io/en/stable/) to install foobar.
+
+
+
+
+
+
+
   --------------------------------------------------------------------------------------------------------------------------------------------
   
 #  Day 1: Introduction to AWS
